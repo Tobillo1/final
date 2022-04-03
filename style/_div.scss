@@ -1,0 +1,10 @@
+.div1 {
+    width: 65em;
+    float: left ;
+    -webkit-transition: 1s linear;
+    transition: 1s linear; }
+
+.div1:hover {
+    transition: all 200ms;
+    display: inline-block;
+    margin: 10px; }
